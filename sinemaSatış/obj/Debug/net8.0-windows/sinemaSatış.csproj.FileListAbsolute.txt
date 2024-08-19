@@ -1,0 +1,16 @@
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\bin\Debug\net8.0-windows\sinemaSatış.exe
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\bin\Debug\net8.0-windows\sinemaSatış.deps.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\bin\Debug\net8.0-windows\sinemaSatış.runtimeconfig.json
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\bin\Debug\net8.0-windows\sinemaSatış.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\bin\Debug\net8.0-windows\sinemaSatış.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.Form1.resources
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.csproj.GenerateResource.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.AssemblyInfoInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.AssemblyInfo.cs
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.csproj.CoreCompileInputs.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\refint\sinemaSatış.dll
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.pdb
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\sinemaSatış.genruntimeconfig.cache
+C:\Users\yahya\OneDrive\Masaüstü\c# eğitim\sinemaSatış\obj\Debug\net8.0-windows\ref\sinemaSatış.dll
